@@ -1,0 +1,16 @@
+# Base LangChain Core & Community
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# Integration Packages
+langchain-openai>=0.2.0
+langchain-ollama>=0.2.0
+
+# Underlying SDKs
+openai>=1.30.0
+ollama>=0.2.0
+
+# Environment Management & Utility
+python-dotenv>=1.0.0
+pydantic>=2.0.0
